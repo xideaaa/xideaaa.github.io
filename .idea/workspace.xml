@@ -38,6 +38,11 @@
     "settings.editor.selected.configurable": "watcher.settings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\$PyProjects\xideaaa.github.io\assets\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="xideaaa.github.io" />
@@ -70,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673283097136</updated>
-      <workItem from="1673283098616" duration="5779000" />
+      <workItem from="1673283098616" duration="6200000" />
     </task>
     <task id="LOCAL-00001" summary="home_page">
       <created>1673283173685</created>
@@ -142,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673289246948</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="home_page">
+      <created>1673289267648</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673289267648</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
