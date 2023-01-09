@@ -47,4 +47,4 @@ sql = 'SELECT * FROM Users WHERE Name ="' + uName + '" AND Pass ="' + uPass + '"
 
 # Galeria sztuki
 
-![Twin Peaks](https://guides.github.com/activities/hello-world/branching.png)
+![Twin Peaks](https://github.com/xideaaa/xideaaa.github.io/blob/main/assets/images/tp.png)
