@@ -4,120 +4,47 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Kliknij na mnie :O](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# O Mnie
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Nazywam się Jakub Zięba i jestem studentem I roku **cyberbezpieczeństwa**, ukończyłem Technikum Elektroniczone w _Lublinie_. Moim ulubionym cytatem jest cytat z Twin Peaks: `In real life there is no algebra.`
 
-## Header 2
+# Moje zainteresowania
 
-> This is a blockquote following a header.
+> Bardzo lubię robić szkice dowodów
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Nie przepadam za dowodem prawostronnym
+> 
+> Nie lubie gdy odwzorowanie nie jest `liniowe` >:[
+> 
+> Twin Peaks i David Lynch
 
-### Header 3
-
+# SQL
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+uName = getRequestString("username");
+uPass = getRequestString("userpassword");
+
+sql = 'SELECT * FROM Users WHERE Name ="' + uName + '" AND Pass ="' + uPass + '"'
 ```
+# Pomocne linki
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*   [Poczta](https://poczta.agh.edu.pl/).
+*   [Otlichnyj_Gorshok](https://github.com/AGH-Wstep-do-Informatyki-2022-2023/Otlichnyj-Gorshok).
+*   [Katarushka](https://kataroushka.com/).
 
-#### Header 4
+# Tier Lista (filmy i seriale)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+| Film/Serial                   | Reżyser                      |
+|:------------------------------|:-----------------------------|
+| Twin Peaks Season 1           | David Lynch, Mark Frost      | 
+| Twin Peaks Season 2           | David Lynch, Mark Frost      | 
+| Twin Peaks: Fire Walk with Me | David Lynch, Mark Frost      | 
+| 1899                          | Baran bo Odar, Jantje Friese | 
+| W.I.T.C.H.                    | David Lynch (musiał)         |
 
-##### Header 5
+# Galeria sztuki
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![Twin Peaks](https://guides.github.com/activities/hello-world/branching.png)
