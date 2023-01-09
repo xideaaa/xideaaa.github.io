@@ -6,7 +6,7 @@ layout: default
 
 # O Mnie
 
-Nazywam się Jakub Zięba i jestem studentem I roku **cyberbezpieczeństwa**, ukończyłem Technikum Elektroniczone w _Lublinie_. Moim ulubionym cytatem jest cytat z Twin Peaks: `In real life there is no algebra.`
+Nazywam się Jakub Zięba i jestem studentem I roku **cyberbezpieczeństwa** na AGH, ukończyłem Technikum Elektroniczone w _Lublinie_. Moim ulubionym cytatem jest cytat z Twin Peaks: `In real life there is no algebra.`
 
 # Moje zainteresowania
 
